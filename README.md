@@ -1,2 +1,2 @@
-# VETIAS-JAN
+# VETIAS-JANANI
 Learning MERN with AI
