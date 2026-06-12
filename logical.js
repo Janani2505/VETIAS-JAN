@@ -1,4 +1,4 @@
-console.log("unary operators")
+console.log("logical operators")
 a=30
 b=40    
 console.log(a > 0 && b > 0)
